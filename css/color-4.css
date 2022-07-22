@@ -109,3 +109,7 @@ blockquote {
 .art-cirkle-progress path:last-child {
   stroke: #7c5ec5;
 }
+
+.primary-color {
+  color: #7c5ec5;
+}
