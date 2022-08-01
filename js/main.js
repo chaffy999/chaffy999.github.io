@@ -254,7 +254,7 @@ $(function() {
   $("#form").submit(function() {
     $.ajax({
       type: "POST",
-      url: "https://formspree.io/f/mdojnzel",
+      url: "https://submit-form.com/ST1ctWxB",
       data: $(this).serialize()
     }).done(function() {
 
